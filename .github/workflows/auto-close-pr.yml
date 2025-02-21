@@ -18,3 +18,4 @@ jobs:
         env:
           GH_REPO: ${{ github.repository }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+[![CodeQL Advanced](https://github.com/noprodnsspeed-us-kg/-CopilotForXcode-/actions/workflows/codeql.yml/badge.svg?event=deployment)](https://github.com/noprodnsspeed-us-kg/-CopilotForXcode-/actions/workflows/codeql.yml)
